@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Gedung KH. Mas Mansyur Lantai 2</p>
+    <p>KH. Mas Mansyur Bld</p>
     <p>Universitas Islam Indonesia</p>
     <p>Jl. Kaliurang KM. 14,5 Sleman</p>
     <p>Yogyakarta 55584, Indonesia</p>
