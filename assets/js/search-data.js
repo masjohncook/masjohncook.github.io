@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "Projects",
-          description: "A growing collection of your cool projects.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -463,7 +463,7 @@ ninja.data = [{
               window.location.href = "/projects/9_project/";
             },},{id: "teachings-coding-practice-and-digital-forensics",
           title: 'Coding Practice and Digital Forensics',
-          description: "This course provides hands-on practice in programming and digital forensics for law students. Topics include basic coding, scripting for evidence analysis, digital evidence handling, and the legal aspects of digital forensic investigations. Taught in Bahasa Indonesia (Praktik Coding dan Digital Forensik).",
+          description: "This course provides hands-on practice in digital forensics for law students. Topics include basic sievidence analysis, digital evidence handling, and the legal aspects of digital forensic investigations. Taught in Bahasa Indonesia (Praktik Coding dan Digital Forensik).",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/coding-and-digital-forensics/";
             },},{id: "teachings-digital-investigation",
