@@ -2,8 +2,8 @@
 layout: course
 title: Coding Practice and Digital Forensics
 description: >
-  This course provides hands-on practice in programming and digital forensics
-  for law students. Topics include basic coding, scripting for evidence analysis,
+  This course provides hands-on practice in digital forensics
+  for law students. Topics include basic sievidence analysis,
   digital evidence handling, and the legal aspects of digital forensic investigations.
   Taught in Bahasa Indonesia (Praktik Coding dan Digital Forensik).
 instructor: Fietyata Yudha, Ph.D.
