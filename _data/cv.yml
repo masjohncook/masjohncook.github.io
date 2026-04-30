@@ -97,7 +97,7 @@ cv:
         position: Trainer
         location: Indonesia
         start_date: 2020-01-01
-        end_date: present
+        end_date: 2022-12-31
 
       - company: iTCentrum IT Training Center
         position: Instructor
