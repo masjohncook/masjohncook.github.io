@@ -1,24 +1,26 @@
 cv:
   name: Fietyata Yudha
-  label: Academician
-  email: yudha[at]uii.ac.id
+  label: "Ph.D. in AI for Cybersecurity | Assistant Professor, Universitas Islam Indonesia"
+  email: yudha@uii.ac.id
   location: Sleman, Yogyakarta, Indonesia
   image: ""
-  summary: 
+  summary: >
+    Fietyata Yudha received the Ph.D. degree from the EECS International Graduate Program,
+    National Yang Ming Chiao Tung University (NYCU), Taiwan, in 2025, and the M.S. degree
+    in Digital Forensics from Universitas Islam Indonesia (UII), Indonesia, in 2013.
+    He is currently an Assistant Professor with the Department of Informatics, UII, and
+    a member of the Center for Digital Forensic Studies. His research interests include
+    AI for cybersecurity, network security, ethical hacking, and digital forensics.
 
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
+  # social_networks:
+  #   - network: LinkedIn
+  #     username: fietyatayudha
 
   address:
-    street: Kaliurang St. KM. 14.5
+    street: Kaliurang St. KM. 14,5
     city: Sleman
     region: D. I. Yogyakarta
-    postalCode: 55584
+    postalCode: "55584"
     countryCode: ID
 
   sections:
@@ -26,165 +28,179 @@ cv:
       - institution: National Yang Ming Chiao Tung University
         location: Hsinchu, Taiwan
         url: https://www.nycu.edu.tw/
-        area: AI for Cybersecurity
+        area: Electrical Engineering and Computer Science
         studyType: Ph.D.
-        start_date: 2021
-        end_date: 2025
-        score: ""
-        courses: "Theory of Relativity"
+        start_date: 2021-09-01
+        end_date: 2025-11-01
         highlights:
-          - Description 1.
-          - Description 2.
+          - "EECS International Graduate Program"
+          - "Research focus: AI for cybersecurity and network security"
+          - "High Speed Networking Laboratory, supervised by Prof. Ying-Dar Lin"
 
       - institution: Universitas Islam Indonesia
         location: Sleman, Yogyakarta, Indonesia
         url: https://uii.ac.id/
-        area: Digital Forensics
+        area: "Cyber/Computer Forensics and Counterterrorism"
         studyType: M.S.
         start_date: 2011
         end_date: 2013
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Specialization in digital forensics"
+
+      - institution: Universitas Islam Indonesia
+        location: Sleman, Yogyakarta, Indonesia
+        url: https://uii.ac.id/
+        area: Computer Science
+        studyType: B.S.
+        start_date: 2007
+        end_date: 2011
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Universitas Islam Indonesia
+        position: Assistant Professor
+        location: Yogyakarta, Indonesia
+        start_date: 2015-12-01
+        end_date: present
         highlights:
-          - Relativity
-          - Description 2.
+          - "Courses taught (Undergraduate): Computer Forensics, Ethical Hacking, Computer System Security, Information Security and Digital Forensic, Computer System and Network, Fundamental of Informatics"
+          - "Teaching Assistant (Master Program): Forensic Examination of Digital Artifact, Crime Scene Investigation and Court Simulation, Network Security"
+          - "Member of the Center for Digital Forensic Studies (CDFS)"
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: National Yang Ming Chiao Tung University
+        position: Postgraduate Researcher
+        location: Hsinchu, Taiwan
+        start_date: 2021-11-01
+        end_date: 2025-12-01
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Conducted research in network security and AI at the High Speed Networking Laboratory"
+          - "Supervised by Prof. Ying-Dar Lin"
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Industrial Technology Research Institute (ITRI)
+        position: Research Assistant
+        location: Taiwan
+        start_date: 2022-01-01
+        end_date: 2022-12-01
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - "Designed and implemented a Kubernetes-based testbed for microservice application deployment"
+          - "Developed automated attack scenarios to generate network traffic datasets"
+          - "Created high-quality datasets for research in legal inference and anomaly detection"
+
+      - company: Center for Digital Forensic Studies (CDFS), Universitas Islam Indonesia
+        position: Forensics Analyst
+        location: Yogyakarta, Indonesia
+        start_date: 2014-08-01
+        end_date: present
+        highlights:
+          - "Performs forensic analysis on digital forensic samples"
+
+      - company: IDNIC (Indonesia Network Information Center)
+        position: Trainer
+        location: Indonesia
+        start_date: 2020-01-01
+        end_date: present
+
+      - company: iTCentrum IT Training Center
+        position: Instructor
+        location: Yogyakarta, Indonesia
+        start_date: 2011-08-01
+        end_date: present
+        highlights:
+          - "Delivers EC-Council training (CEH, CHFI) as a Certified EC-Council Instructor (CEI)"
+
+      - company: Asia Pacific Advanced Network
+        position: Fellow
+        location: Putra Jaya, Malaysia
+        start_date: 2019-07-01
+        end_date: 2019-07-01
+        highlights:
+          - "Fellowship of Asia Pacific Advanced Network Meeting 48"
+
+      - company: Imagine IT Training Center
+        position: Instructor
+        location: Yogyakarta, Indonesia
+        start_date: 2010-08-01
+        end_date: 2011-01-01
+
+      - company: Universitas Islam Indonesia
+        position: Laboratory Assistant
+        location: Yogyakarta, Indonesia
+        start_date: 2008-07-01
+        end_date: 2010-06-01
 
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - title: Taiwan Scholarship
+        awarder: Ministry of Education, Taiwan
+        date: 2021
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - title: Beasiswa Unggulan
+        awarder: Ministry of Education and Culture, Indonesia
+        date: 2011
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+      - title: "Fellowship of Asia Pacific Regional Internet Conference on Operational Technologies"
+        awarder: APRICOT
+        date: 2019
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
-
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - title: Fellowship of Asia Pacific Advanced Network Meeting 48
+        awarder: Asia Pacific Advanced Network (APAN)
+        date: 2019
 
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+      - name: Cellebrite Certified Physical Analyst (CCPA)
+        issuer: Cellebrite
+        icon: fa-solid fa-shield-halved
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+      - name: Cellebrite Certified Operator (CCO)
+        issuer: Cellebrite
+        icon: fa-solid fa-shield-halved
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - name: Certified EC-Council Instructor (CEI)
+        issuer: EC-Council
+        icon: fa-solid fa-chalkboard-user
 
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+      - name: "CCNA: Enterprise Networking, Security, and Automation"
+        issuer: Cisco
+        icon: fa-solid fa-network-wired
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: AI For Everyone
+        issuer: Coursera / DeepLearning.AI
+        icon: fa-solid fa-brain
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: "Programming for Everybody (Getting Started with Python)"
+        issuer: Coursera / University of Michigan
+        icon: fa-brands fa-python
+
+    Skills:
+      - name: AI for Cybersecurity
+        level: Expert
+        icon: fa-solid fa-shield-halved
+        keywords: "Machine Learning, Intrusion Detection, Anomaly Detection, Network Security"
+
+      - name: Digital Forensics
+        level: Expert
+        icon: fa-solid fa-magnifying-glass
+        keywords: "Mobile Forensics, Incident Response, Evidence Analysis, Cellebrite"
+
+      - name: Ethical Hacking
+        level: Expert
+        icon: fa-solid fa-bug
+        keywords: "Penetration Testing, CEH, CHFI, Vulnerability Assessment"
+
+      - name: Infrastructure & DevOps
+        level: Intermediate
+        icon: fa-solid fa-server
+        keywords: "Linux, Kubernetes, Microservices, Docker"
+
+    Languages:
+      - name: Bahasa Indonesia
+        summary: "Professional Working"
+
+      - name: Javanese
+        summary: "Full Professional"
+
+      - name: English
+        summary: "Limited Working"
+
+    Interests:
+      - name: Research Areas
+        icon: fa-solid fa-microscope
+        keywords: "AI for Cybersecurity, Network Security, Digital Forensics, Ethical Hacking"
