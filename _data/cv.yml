@@ -32,10 +32,10 @@ cv:
         studyType: Ph.D.
         start_date: 2021-09-01
         end_date: 2025-11-01
-        highlights:
-          - "EECS International Graduate Program"
-          - "Research focus: AI for cybersecurity and network security"
-          - "High Speed Networking Laboratory, supervised by Prof. Ying-Dar Lin"
+        # highlights:
+        #   - "EECS International Graduate Program"
+        #   - "Research focus: AI for cybersecurity and network security"
+        #   - "High Speed Networking Laboratory, supervised by Prof. Ying-Dar Lin"
 
       - institution: Universitas Islam Indonesia
         location: Yogyakarta, Indonesia
@@ -44,8 +44,8 @@ cv:
         studyType: M.S.
         start_date: 2011
         end_date: 2013
-        highlights:
-          - "Specialization in digital forensics"
+        # highlights:
+        #   - "Specialization in digital forensics"
 
       - institution: Universitas Islam Indonesia
         location: Yogyakarta, Indonesia
