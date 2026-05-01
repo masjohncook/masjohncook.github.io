@@ -38,9 +38,9 @@ cv:
           - "High Speed Networking Laboratory, supervised by Prof. Ying-Dar Lin"
 
       - institution: Universitas Islam Indonesia
-        location: Sleman, Yogyakarta, Indonesia
+        location: Yogyakarta, Indonesia
         url: https://uii.ac.id/
-        area: "Cyber/Computer Forensics and Counterterrorism"
+        area: "Digital Forensics"
         studyType: M.S.
         start_date: 2011
         end_date: 2013
@@ -48,7 +48,7 @@ cv:
           - "Specialization in digital forensics"
 
       - institution: Universitas Islam Indonesia
-        location: Sleman, Yogyakarta, Indonesia
+        location: Yogyakarta, Indonesia
         url: https://uii.ac.id/
         area: Computer Science
         studyType: B.S.
@@ -79,7 +79,7 @@ cv:
         position: Research Assistant
         location: Taiwan
         start_date: 2022-01-01
-        end_date: 2022-12-01
+        end_date: 2022-12-31
         highlights:
           - "Designed and implemented a Kubernetes-based testbed for microservice application deployment"
           - "Developed automated attack scenarios to generate network traffic datasets"
