@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Courses taught at Universitas Islam Indonesia, Even Semester 2025/2026.
+description: Courses taught at Universitas Islam Indonesia, Even Semester 2025/2026 and Odd Semester 2026/2027.
 nav: true
 nav_order: 5
 ---

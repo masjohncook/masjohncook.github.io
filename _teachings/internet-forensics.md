@@ -6,7 +6,7 @@ description: >
   network traffic analysis, web artifact examination, cloud forensics, and
   dark web investigations. Taught in Bahasa Indonesia (Forensika Internet).
 instructor: Fietyata Yudha, Ph.D.
-year: 2025/2026 2nd Semester
+year: 2025/2026 2<sup>nd</sup> Semester
 term: Even Semester (Genap)
 department: Master of Informatics (MTF)
 code: 91734305

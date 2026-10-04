@@ -7,7 +7,7 @@ description: >
   social enterprise, and digital business models within an Islamic framework.
   Taught in Bahasa Indonesia (Kewirausahaan Syariah).
 instructor: Fietyata Yudha, Ph.D.
-year: 2025/2026 2nd Semester
+year: 2025/2026 2<sup>nd</sup> Semester
 term: Even Semester (Genap)
 department: Informatics — Undergraduate (TF)
 code: UNI605

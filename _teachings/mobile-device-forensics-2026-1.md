@@ -7,24 +7,17 @@ description: >
   methods, mobile operating system internals, app data analysis, and reporting.
   Taught in Bahasa Indonesia (Forensika Perangkat Bergerak).
 instructor: Fietyata Yudha, Ph.D.
-year: 2025/2026 2<sup>nd</sup> Semester
-term: Even Semester (Genap)
+year: 2026/2027 1<sup>st</sup> Semester
+term: Odd Semester (Ganjil)
 department: Master of Informatics (MTF)
 code: 91723303
 credits: 3
-mode: Online (Daring) / In-person (Luring)
-course_id: mobile-device-forensics
+mode: In-person (Luring)
+course_id: mobile-device-forensics-2026-1
 schedule:
-  - section: B
-    day: Thursday (Kamis)
-    time: "18:30–21:00"
-    room: VIP1, Gd. Mas Mansur (FTI)
-    students: 6
-    mode: Online (Daring)
   - section: A
     day: Saturday (Sabtu)
     time: "09:30–12:00"
-    room: IT.CENTRUM A, Gd. Mas Mansur (FTI)
-    students: 2
-    mode: In-person (Luring)
+    room: Lab. IF 3.1 IFP, Gd. Laboratorium (FTI)
+    students: 4
 ---
