@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "Courses taught at Universitas Islam Indonesia, Even Semester 2025/2026 and Odd Semester 2026/2027.",
+          description: "Courses taught at Universitas Islam Indonesia, 2nd Semester 2025/2026 and 1st Semester 2026/2027.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
