@@ -6,7 +6,7 @@ description: >
   including evidence acquisition, preservation, analysis, and reporting.
 instructor: Fietyata Yudha, Ph.D.
 year: 2026/2027 1<sup>st</sup> Semester
-term: Odd Semester (Ganjil)
+term: 1<sup>st</sup> Semester (Ganjil)
 department: Informatics — Undergraduate (IF)
 code: SIF914
 credits: 3

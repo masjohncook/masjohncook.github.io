@@ -8,7 +8,7 @@ description: >
   academic writing. Taught in Bahasa Indonesia (Metodologi Penelitian).
 instructor: Fietyata Yudha, Ph.D.
 year: 2025/2026 2<sup>nd</sup> Semester
-term: Even Semester (Genap)
+term: 2<sup>nd</sup> Semester (Genap)
 department: Informatics — Undergraduate (TF)
 code: SIF701
 credits: 3

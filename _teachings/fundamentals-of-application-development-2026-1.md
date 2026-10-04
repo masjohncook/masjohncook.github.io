@@ -8,7 +8,7 @@ description: >
   web and mobile applications from scratch.
 instructor: Fietyata Yudha, Ph.D.
 year: 2026/2027 1<sup>st</sup> Semester
-term: Odd Semester (Ganjil)
+term: 1<sup>st</sup> Semester (Ganjil)
 department: Informatics — Undergraduate (TF)
 code: SIF202
 credits: 6

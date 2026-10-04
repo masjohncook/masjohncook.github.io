@@ -7,7 +7,7 @@ description: >
   and security policy. Taught in Bahasa Indonesia (Keamanan Informasi).
 instructor: Fietyata Yudha, Ph.D.
 year: 2026/2027 1<sup>st</sup> Semester
-term: Odd Semester (Ganjil)
+term: 1<sup>st</sup> Semester (Ganjil)
 department: Master of Informatics (MTF)
 code: 91723302
 credits: 3
