@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "Courses taught at Universitas Islam Indonesia, Even Semester 2025/2026.",
+          description: "Courses taught at Universitas Islam Indonesia, Even Semester 2025/2026 and Odd Semester 2026/2027.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -466,6 +466,21 @@ ninja.data = [{
           description: "This course provides hands-on practice in digital forensics for law students. Topics include basic sievidence analysis, digital evidence handling, and the legal aspects of digital forensic investigations. Taught in Bahasa Indonesia (Praktik Coding dan Digital Forensik).",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/coding-and-digital-forensics/";
+            },},{id: "teachings-computer-systems-and-networks",
+          title: 'Computer Systems and Networks',
+          description: "This course introduces the fundamentals of computer systems and computer networks, including system organization, operating system concepts, network protocols, and basic network configuration.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/computer-systems-and-networks-2026-1/";
+            },},{id: "teachings-digital-forensics",
+          title: 'Digital Forensics',
+          description: "This course introduces the concepts, tools, and procedures of digital forensics, including evidence acquisition, preservation, analysis, and reporting.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/digital-forensics-2026-1/";
+            },},{id: "teachings-digital-investigation",
+          title: 'Digital Investigation',
+          description: "This course explores the principles and methodologies of digital investigation, including evidence acquisition, chain of custody, forensic analysis techniques, and case reporting. Taught in Bahasa Indonesia (Investigasi Digital).",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/digital-investigation-2026-1/";
             },},{id: "teachings-digital-investigation",
           title: 'Digital Investigation',
           description: "This course explores the principles and methodologies of digital investigation, including evidence acquisition, chain of custody, forensic analysis techniques, and case reporting. Taught in Bahasa Indonesia (Investigasi Digital).",
@@ -475,7 +490,17 @@ ninja.data = [{
           title: 'Fundamentals of Application Development',
           description: "This course introduces students to the core concepts of application development, covering software design principles, programming paradigms, version control, testing, and deployment. Students gain practical experience building web and mobile applications from scratch.",
           section: "Teachings",handler: () => {
+              window.location.href = "/teachings/fundamentals-of-application-development-2026-1/";
+            },},{id: "teachings-fundamentals-of-application-development",
+          title: 'Fundamentals of Application Development',
+          description: "This course introduces students to the core concepts of application development, covering software design principles, programming paradigms, version control, testing, and deployment. Students gain practical experience building web and mobile applications from scratch.",
+          section: "Teachings",handler: () => {
               window.location.href = "/teachings/fundamentals-of-application-development/";
+            },},{id: "teachings-information-security",
+          title: 'Information Security',
+          description: "This course covers the fundamental principles of information security, including threats and vulnerabilities, cryptography, access control, network security, and security policy. Taught in Bahasa Indonesia (Keamanan Informasi).",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/information-security-2026-1/";
             },},{id: "teachings-information-security",
           title: 'Information Security',
           description: "This course covers the fundamental principles of information security, including threats and vulnerabilities, cryptography, access control, network security, and security policy. Taught in Bahasa Indonesia (Keamanan Informasi).",
@@ -491,6 +516,16 @@ ninja.data = [{
           description: "This course explores the principles of entrepreneurship from an Islamic perspective, covering halal business ethics, syariah-compliant finance, social enterprise, and digital business models within an Islamic framework. Taught in Bahasa Indonesia (Kewirausahaan Syariah).",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/islamic-entrepreneurship/";
+            },},{id: "teachings-mobile-application-development",
+          title: 'Mobile Application Development',
+          description: "This course covers the design and development of mobile applications, including user interface design, application architecture, data storage, and deployment. Taught in Bahasa Indonesia (Pengembangan Aplikasi Bergerak).",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/mobile-application-development-2026-1/";
+            },},{id: "teachings-mobile-device-forensics",
+          title: 'Mobile Device Forensics',
+          description: "This course focuses on the forensic acquisition and analysis of mobile devices, including smartphones and tablets. Topics include physical and logical extraction methods, mobile operating system internals, app data analysis, and reporting. Taught in Bahasa Indonesia (Forensika Perangkat Bergerak).",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/mobile-device-forensics-2026-1/";
             },},{id: "teachings-mobile-device-forensics",
           title: 'Mobile Device Forensics',
           description: "This course focuses on the forensic acquisition and analysis of mobile devices, including smartphones and tablets. Topics include physical and logical extraction methods, mobile operating system internals, app data analysis, and reporting. Taught in Bahasa Indonesia (Forensika Perangkat Bergerak).",
@@ -506,6 +541,11 @@ ninja.data = [{
           description: "This course introduces students to research design and scientific writing in computing and informatics. Topics include literature review, research problem formulation, quantitative and qualitative methods, data analysis, and academic writing. Taught in Bahasa Indonesia (Metodologi Penelitian).",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/research-methodology/";
+            },},{id: "teachings-system-architecture-and-digital-artifacts",
+          title: 'System Architecture and Digital Artifacts',
+          description: "This course examines the architecture of digital systems and the nature of digital artifacts produced by operating systems, applications, and networks. Topics include file systems, memory structures, log analysis, and artifact interpretation for forensic purposes. Taught in Bahasa Indonesia (Arsitektur Sistem dan Artefak Digital).",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/system-architecture-digital-artifacts-2026-1/";
             },},{id: "teachings-system-architecture-and-digital-artifacts",
           title: 'System Architecture and Digital Artifacts',
           description: "This course examines the architecture of digital systems and the nature of digital artifacts produced by operating systems, applications, and networks. Topics include file systems, memory structures, log analysis, and artifact interpretation for forensic purposes. Taught in Bahasa Indonesia (Arsitektur Sistem dan Artefak Digital).",
