@@ -7,7 +7,7 @@ description: >
   privacy, cybersecurity ethics, and the societal impact of technology.
   Taught in Bahasa Indonesia (Etika Profesi).
 instructor: Fietyata Yudha, Ph.D.
-year: 2025/2026
+year: 2025/2026 2nd Semester
 term: Even Semester (Genap)
 department: Informatics — Undergraduate (TF)
 code: SIF601

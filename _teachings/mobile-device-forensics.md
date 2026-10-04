@@ -7,7 +7,7 @@ description: >
   methods, mobile operating system internals, app data analysis, and reporting.
   Taught in Bahasa Indonesia (Forensika Perangkat Bergerak).
 instructor: Fietyata Yudha, Ph.D.
-year: 2025/2026
+year: 2025/2026 2nd Semester
 term: Even Semester (Genap)
 department: Master of Informatics (MTF)
 code: 91723303

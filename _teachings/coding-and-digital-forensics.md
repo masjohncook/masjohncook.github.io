@@ -7,7 +7,7 @@ description: >
   digital evidence handling, and the legal aspects of digital forensic investigations.
   Taught in Bahasa Indonesia (Praktik Coding dan Digital Forensik).
 instructor: Fietyata Yudha, Ph.D.
-year: 2025/2026
+year: 2025/2026 2nd Semester
 term: Even Semester (Genap)
 department: Business Law (HB)
 code: SHB-603

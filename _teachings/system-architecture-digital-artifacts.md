@@ -7,7 +7,7 @@ description: >
   file systems, memory structures, log analysis, and artifact interpretation for
   forensic purposes. Taught in Bahasa Indonesia (Arsitektur Sistem dan Artefak Digital).
 instructor: Fietyata Yudha, Ph.D.
-year: 2025/2026
+year: 2025/2026 2nd Semester
 term: Even Semester (Genap)
 department: Master of Informatics (MTF)
 code: 91713304

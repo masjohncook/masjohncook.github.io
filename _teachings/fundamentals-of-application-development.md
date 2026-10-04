@@ -7,7 +7,7 @@ description: >
   testing, and deployment. Students gain practical experience building
   web and mobile applications from scratch.
 instructor: Fietyata Yudha, Ph.D.
-year: 2025/2026
+year: 2025/2026 2nd Semester
 term: Even Semester (Genap)
 department: Informatics — Undergraduate (IF)
 code: SIF202

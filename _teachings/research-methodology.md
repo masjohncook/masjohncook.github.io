@@ -7,7 +7,7 @@ description: >
   formulation, quantitative and qualitative methods, data analysis, and
   academic writing. Taught in Bahasa Indonesia (Metodologi Penelitian).
 instructor: Fietyata Yudha, Ph.D.
-year: 2025/2026
+year: 2025/2026 2nd Semester
 term: Even Semester (Genap)
 department: Informatics — Undergraduate (TF)
 code: SIF701
