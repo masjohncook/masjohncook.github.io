@@ -28,7 +28,7 @@ latest_posts:
   limit: 3
 ---
 
-Fietyata Yudha received the Ph.D. degree from the Electrical Engineering and Computer Science International Graduate Program, National Yang Ming Chiao Tung University (NYCU), Taiwan, in 2025, the M.S. degree in Digital Forensics from Universitas Islam Indonesia (UII), Indonesia, in 2013, and the B.S. degree in Computer Science from UII in 2011. He is currently an Assistant Professor with the Department of Informatics, Universitas Islam Indonesia, and a member of the Center for Digital Forensic Studies (CDFS), where he has been affiliated since 2014.
+Fietyata Yudha received the Ph.D. degree from the Electrical Engineering and Computer Science International Graduate Program, National Yang Ming Chiao Tung University (NYCU), Taiwan, in 2025, the M.S. degree in Digital Forensics from Universitas Islam Indonesia (UII), Indonesia, in 2013, and the B.S. degree in Computer Science from UII in 2011. He is currently an Assistant Professor with the Department of Informatics, Universitas Islam Indonesia, where he also serves as the Head of the Informatics Distance Learning Program, and a member of the Center for Digital Forensic Studies (CDFS), where he has been affiliated since 2014.
 
 His research interests include AI for cybersecurity, network security, ethical hacking, and digital forensics. During his doctoral studies at NYCU, he conducted research at the High Speed Networking Laboratory under the supervision of Prof. Ying-Dar Lin, focusing on network security and AI-driven approaches. He also served as a Research Assistant at the Industrial Technology Research Institute (ITRI), Taiwan, where he designed Kubernetes-based testbeds and generated high-fidelity network traffic datasets for security research.
 

@@ -8,7 +8,8 @@ cv:
     Fietyata Yudha received the Ph.D. degree from the EECS International Graduate Program,
     National Yang Ming Chiao Tung University (NYCU), Taiwan, in 2025, and the M.S. degree
     in Digital Forensics from Universitas Islam Indonesia (UII), Indonesia, in 2013.
-    He is currently an Assistant Professor with the Department of Informatics, UII, and
+    He is currently an Assistant Professor with the Department of Informatics, UII, where he
+    also serves as the Head of the Informatics Distance Learning Program, and
     a member of the Center for Digital Forensic Studies. His research interests include
     AI for cybersecurity, network security, ethical hacking, and digital forensics.
 
@@ -62,6 +63,7 @@ cv:
         start_date: 2015-12-01
         end_date: present
         highlights:
+          - "Head of the Informatics Distance Learning Program"
           - "Courses taught (Undergraduate): Computer Forensics, Ethical Hacking, Computer System Security, Information Security and Digital Forensic, Computer System and Network, Fundamental of Informatics"
           - "Teaching Assistant (Master Program): Forensic Examination of Digital Artifact, Crime Scene Investigation and Court Simulation, Network Security"
           - "Member of the Center for Digital Forensic Studies (CDFS)"
